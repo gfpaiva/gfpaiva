@@ -3,10 +3,9 @@
 ## 👨🏻‍💻 / about me /
 
 - 🇧🇷 I live in São Paulo, Brazil.
-- 🗣️ Languagues - Portuguese, English.
-- ⭐ Currently working on **Front-end** at <a href="https://picpay.com/" target="_blank"><img src="https://img.shields.io/badge/-PicPay-05122A?style=flat&logo=picpay" /></a>
-- 💀 Mostly working on **private repositories**
-- 🎓 Currently studying Mobile development (Dart/Flutter) and Back-end Development (Python and NodeJS).
+- 💬 Languagues - Portuguese, English.
+- 🏢 Currently working as **Front-end developer** at <a href="https://picpay.com/" target="_blank"><img src="https://img.shields.io/badge/-PicPay-05122A?style=flat&logo=picpay" /></a>
+- 📚 Currently learning Mobile development (Dart/Flutter) and Back-end Development (Python and NodeJS).
 - 🤓 In my free time, I play video games and I play bass in a hardcore band 🤘
 
 ## ⚒️ / tech stack /
